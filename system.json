@@ -1,0 +1,26 @@
+{
+    "name":"PTA3",
+    "title": "Pokémon Tabletop Adventures 3",
+    "Description":"A D20-esque system for running adventures in the Pokémon universe.",
+    "version":".0.1",
+    "author":"Jo Mama",
+    "minimumCoreVersion":"idk",
+    "scripts":"",
+    "esmodules":"",
+    "styles":"",
+    "packs":"",
+    "dependencies":[],
+    "languages":[
+        {
+            "lang":"en",
+            "name":"English",
+            "path":"lang/en.json"
+        }
+    ],
+    "socket": false,
+    "initiative": 0,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "resources.health",
+    "url": "https://github.com/KumasakaPanos/PTA3forFoundryVTT"
+}
