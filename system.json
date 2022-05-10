@@ -4,7 +4,11 @@
     "Description":"A D20-esque system for running adventures in the Pokémon universe.",
     "version":".0.1",
     "author":"Jo Mama",
-    "minimumCoreVersion":"idk",
+    "scripts":[],
+    "esmodules":[],
+    "styles":[],
+    "packs":[],
+    "minimumCoreVersion":"9.0.0",
     "languages":[
         {
             "lang":"en",
